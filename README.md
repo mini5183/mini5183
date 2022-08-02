@@ -11,10 +11,5 @@ OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Delhi, India
-Frameworks: Flask, Django, FastAPI, Quart
-Languages: Python,JavaScript,
-           HTML, CSS
-Learning: mongoDB, Node.js PostgreSQL,
-          CPP
-Hobbies: Coding/Reading/Sleeping
+Hobbies: Coding/Reading/Sleeping/Movies/Anime
 ```
