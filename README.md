@@ -17,9 +17,4 @@ Languages: Python,JavaScript,
 Learning: mongoDB, Node.js PostgreSQL,
           CPP
 Hobbies: Coding/Reading/Sleeping
-Discord: Mini#5183
 ```
----
-Personal Organisations - [@minihut](https://github.com/minihut)
-
-Alt Account Of - [@ayushsehrawat](https://github.com/ayushsehrawat)
